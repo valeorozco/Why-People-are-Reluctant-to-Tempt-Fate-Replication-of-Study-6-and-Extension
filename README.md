@@ -1,4 +1,4 @@
-# Why-People are Reluctant to Tempt Fate Replication of Study 6 and Extension
+# Why People are Reluctant to Tempt Fate Replication of Study 6 and Extension
 
 The present research focused on the replication of the sixth experimental study (Study 6) from the paper “Why People are reluctant to tempt fate”, published by authors Risen and Gilovich in 2008. 
 
